@@ -1,0 +1,4 @@
+/home/Lucas/Documentos/Cataloginho/bin/Release/net8.0/linux-x64/publish/RetroTracker
+/home/Lucas/Documentos/Cataloginho/bin/Release/net8.0/linux-x64/publish/RetroTracker.pdb
+/home/Lucas/Documentos/Cataloginho/bin/Release/net8.0/linux-x64/publish/libQuestPdfSkia.so
+/home/Lucas/Documentos/Cataloginho/bin/Release/net8.0/linux-x64/publish/libe_sqlite3.so

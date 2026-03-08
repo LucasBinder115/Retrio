@@ -64,3 +64,4 @@
 /home/Lucas/Documentos/Cataloginho/obj/Debug/net8.0/RetroTracker.pdb
 /home/Lucas/Documentos/Cataloginho/obj/Debug/net8.0/RetroTracker.genruntimeconfig.cache
 /home/Lucas/Documentos/Cataloginho/obj/Debug/net8.0/ref/RetroTracker.dll
+/home/Lucas/Documentos/Cataloginho/obj/Debug/net8.0/RetroTracker.sourcelink.json

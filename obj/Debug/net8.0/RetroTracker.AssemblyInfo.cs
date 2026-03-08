@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetroTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4e13011bbad86e2127b83a9b112840742e53bee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d318af32b6bab1f794f771771ed71e1c22539df")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetroTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetroTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
