@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Up6L15ZVzPk=",
+  "success": true,
+  "projectFilePath": "/home/Lucas/Documentos/Cataloginho/RetroTracker.csproj",
+  "expectedPackageFiles": [
+    "/home/Lucas/.nuget/packages/microsoft.data.sqlite/8.0.6/microsoft.data.sqlite.8.0.6.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/microsoft.data.sqlite.core/8.0.6/microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.24/microsoft.dotnet.ilcompiler.8.0.24.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/microsoft.net.illink.tasks/8.0.24/microsoft.net.illink.tasks.8.0.24.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/questpdf/2024.3.0/questpdf.2024.3.0.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/Lucas/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.24/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
